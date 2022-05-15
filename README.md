@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Description
+Fuse - React Admin Template Redux Toolkit Material Design with Hooks Support by withinpixels in Admin Templates
+React Hooks + Redux Toolkit + Material UI
+Tailwindcss + Create React App
+Highly Configurable, Powerful Admin Template
+
 ## Available Scripts
 
 In the project directory, you can run:
